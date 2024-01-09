@@ -11,6 +11,7 @@ body {
     padding: 10px;
     font-family: 'Lato', sans-serif;
     line-height: 1.8;
+    background-image: url(../images/backgroundImage.png);
 }
 
 .container {
