@@ -1,10 +1,11 @@
 .form {
-    border: 2px solid rgba(74, 73, 73, 0.429);
+    border: 2px solid #7c0303;
     border-radius: 10px;
     text-align: center;
     padding: 10px;
     margin: 0px auto;
     width: 100%;
+    background-color: #fff2f2;
 }
 
 .form__legend {
@@ -13,7 +14,7 @@
     padding: 0px 10px;
     border: 2px solid #7c0303;
     border-radius: 30px;
-    background-color: #fff1f19e;
+    background-color: #fff1f1;
     color: #500000;
 }
 
@@ -49,25 +50,25 @@
     padding: 10px;
     max-width: 200px;
     color: #500000;
-    background-color: #fff1f19e;
+    background-color: #fff1f1;
     border: 2px solid #7c0303;
     border-radius: 50px;
 }
 
 .form__input:hover {
-    background-color: #ffe1e19e;
+    background-color: #ffe1e1;
     border: 3px solid #810d0d;
     
 }
 
 .form__input:active {
-    background-color: #ffd4d49e;
+    background-color: #ffd4d4;
 }
 
 .form__result {
     text-align: center;
     font-size: 35px;
-    color: #500000;
+    color: #ffe1e1;
     text-decoration: 2px underline;
 }
 
